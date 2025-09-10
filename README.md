@@ -8,8 +8,6 @@ This project demonstrates fetching content from a headless CMS and displaying it
 
 - Fetch blog posts using GraphQL from Hygraph.
 - Display posts in a **responsive card grid** layout.
-- Render **Rich Text content** with proper HTML formatting.
-- Support for **featured images** with fallback when no image is available.
 - Fully built using **Next.js App Router** and **server components**.
 - Styled with **TailwindCSS** for modern design.
 
